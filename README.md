@@ -1,2 +1,2 @@
 # Winlogbeat
-OPenSearch Service Dashboard
+OpenSearch Service Dashboard
